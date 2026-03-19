@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Recalculate",
+  "base_artist": "CHiLi GiRL",
+  "createdAt": "2026-03-19T08:54:32.004368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Recalculate",
+      "artist": "Avraham Fried",
+      "has_synced": false,
+      "path": "select/01_Recalculate_Avraham_Fried.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Recalculate",
+      "artist": "CHiLi GiRL",
+      "has_synced": false,
+      "path": "select/pl_01_Recalculate_CHiLi_GiRL.txt"
+    }
+  ]
+}
